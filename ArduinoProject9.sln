@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "ArduinoProject9", "ArduinoProject9.vgdbproj", "{0F6A14B7-B230-44C0-8AEC-E3F626F7D7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ESP32_Wrover_Module = Debug|ESP32_Wrover_Module
+		Release|ESP32_Wrover_Module = Release|ESP32_Wrover_Module
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F6A14B7-B230-44C0-8AEC-E3F626F7D7CC}.Debug|ESP32_Wrover_Module.ActiveCfg = Debug|ESP32_Wrover_Module
+		{0F6A14B7-B230-44C0-8AEC-E3F626F7D7CC}.Debug|ESP32_Wrover_Module.Build.0 = Debug|ESP32_Wrover_Module
+		{0F6A14B7-B230-44C0-8AEC-E3F626F7D7CC}.Release|ESP32_Wrover_Module.ActiveCfg = Release|ESP32_Wrover_Module
+		{0F6A14B7-B230-44C0-8AEC-E3F626F7D7CC}.Release|ESP32_Wrover_Module.Build.0 = Release|ESP32_Wrover_Module
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99D1EA8C-C1F9-4AAE-B770-C2E065D06DFE}
+	EndGlobalSection
+EndGlobal

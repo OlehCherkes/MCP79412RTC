@@ -1,0 +1,52 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Oleh\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Oleh\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\variants\\esp32"
+  },
+  {
+    "Sourcefile": "c:\\projects\\test\\ArduinoProject9\\Output\\ESP32_Wrover_Module\\Debug\\sketch\\rtcSet1.ino.cpp",
+    "Include": "MCP79412RTC.h",
+    "Includepath": "C:\\Users\\Oleh\\Documents\\Arduino\\Libraries\\MCP79412RTC\\src"
+  },
+  {
+    "Sourcefile": "c:\\projects\\test\\ArduinoProject9\\Output\\ESP32_Wrover_Module\\Debug\\sketch\\rtcSet1.ino.cpp",
+    "Include": "TimeLib.h",
+    "Includepath": "C:\\Users\\Oleh\\Documents\\Arduino\\Libraries\\Time"
+  },
+  {
+    "Sourcefile": "c:\\projects\\test\\ArduinoProject9\\Output\\ESP32_Wrover_Module\\Debug\\sketch\\rtcSet1.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\Oleh\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "c:\\projects\\test\\ArduinoProject9\\Output\\ESP32_Wrover_Module\\Debug\\sketch\\rtcSet1.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Oleh\\Documents\\Arduino\\Libraries\\MCP79412RTC\\src\\MCP79412RTC.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Oleh\\Documents\\Arduino\\Libraries\\Time\\DateStrings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Oleh\\Documents\\Arduino\\Libraries\\Time\\Time.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Oleh\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.6\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

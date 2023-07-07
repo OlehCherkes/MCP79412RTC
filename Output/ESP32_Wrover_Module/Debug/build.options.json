@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "",
+  "builtInToolsFolders": "C:\\Users\\Oleh\\AppData\\Local/Arduino15/packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "runtime.tools.esptool_py.path=C:\\Users\\Oleh\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\esptool_py\\3.0.0,runtime.tools.xtensa-esp32-elf-gcc.path=C:\\Users\\Oleh\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\xtensa-esp32-elf-gcc\\1.22.0-97-gc752ad5-5.2.0,runtime.tools.ctags.path=C:\\Users\\Oleh\\AppData\\Local\\VisualGDB\\Arduino\\tools-builder\\ctags\\5.8-arduino11",
+  "fqbn": "esp32:esp32:esp32wrover:PartitionScheme=default,FlashMode=qio,FlashFreq=80,UploadSpeed=921600,DebugLevel=none",
+  "hardwareFolders": "C:\\Users\\Oleh\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Oleh\\Documents\\Arduino\\Libraries",
+  "runtime.ide.version": "10600",
+  "sketchLocation": "C:\\Users\\Oleh\\Downloads\\MCP79412RTC-master\\examples\\rtcSet1\\rtcSet1.ino"
+}
